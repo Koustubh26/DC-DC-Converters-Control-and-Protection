@@ -2,9 +2,9 @@
 
 
 
-This project demonstrates the \*\*design and simulation of cascade control and protection circuits\*\* for basic \*\*DC-DC converters\*\* using \*\*PLECS\*\*.  
+This project demonstrates the **Design and Simulation of Cascade Control and Protection Circuits** for basic **DC-DC Converters** using **PLECS**.  
 
-The converters studied include \*\*buck, boost, and buck-boost topologies\*\*.
+The converters studied include **Buck, Boost, and Buck-Boost topologies**.
 
 
 
