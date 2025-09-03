@@ -16,8 +16,8 @@ The converters studied include **Buck, Boost, and Buck-Boost topologies**.
 
 * Design Mathematical models
 * Design stable and fast cascade control
-* Design Soft start logic with
-* Design Overcurrent and Overvoltage logic
+* Design Soft start logic
+* Design Overcurrent and Overvoltage Protection logic
 
 
 
