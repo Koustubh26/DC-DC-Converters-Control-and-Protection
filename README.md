@@ -1,5 +1,37 @@
-# DC-DC-Converters-Control-and-Protection
-The project is about designing closed loop cascade control for DC-DC converters and their protection logic in PLECS.
+# Cascade Control and Protection Circuit Simulation for DC-DC Converters
 
-The project includes a cascade control for the basic DC-DC converters which is designed in PLECS. Along with this some protection features are also simulated for a practical design.
-Protection features such as Soft start, Overcurrent Protection and Overvoltage protection are added to operate the converters safely without exceeding their current and voltage limits.
+
+
+This project demonstrates the \*\*design and simulation of cascade control and protection circuits\*\* for basic \*\*DC-DC converters\*\* using \*\*PLECS\*\*.  
+
+The converters studied include \*\*buck, boost, and buck-boost topologies\*\*.
+
+
+
+
+
+📌 Project Objective
+
+
+
+* Design Mathematical models
+* Design stable and fast cascade control
+* Design Soft start logic with
+* Design Overcurrent and Overvoltage logic
+
+
+
+🚀 Design Steps
+
+
+
+* Deriving the mathematical models of the DC-DC Converters in Plecs
+* Perform Small Signal Analysis for the Current and Voltage loops in Plecs
+* Export the Bode plots
+* Use the Bode plots with the PID Tuner of MATLAB to get the required Gains and Time Constants
+* Verify the working of closed loop cascade control
+* Add Protection logic to the closed loop model
+* Verify the working of the protection logics by adding faults
+
+
+
